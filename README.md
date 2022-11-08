@@ -3,7 +3,9 @@ Certificados Obtidos!
 
 #Complete Challenges
 - HTML5 ( Intermediate)
-- CSS3 ( Basico to Intermediate)
+- CSS3 ( Basic to Intermediate)
+- Java ( Basic )
+- POO - Programação Orientada a Objetos
 
 #Challenges
 
@@ -11,4 +13,3 @@ Certificados Obtidos!
 - Node.js
 - React
 - Sass
-- Java Básico
