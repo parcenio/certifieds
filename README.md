@@ -7,6 +7,8 @@ Certificados Obtidos!
 - Java ( Basic )
 - POO - Programação Orientada a Objetos
 - Collections Java (Interfaces, List, Set, Map, Classe Anônima, Lambda, Reference Method, Stream API)
+- API Rest + Swagger
+- Trabalhando em Equipes Ageis
 
 #Challenges
 
