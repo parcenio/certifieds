@@ -9,6 +9,9 @@ Certificados Obtidos!
 - Collections Java (Interfaces, List, Set, Map, Classe Anônima, Lambda, Reference Method, Stream API)
 - API Rest + Swagger
 - Trabalhando em Equipes Ageis
+- Maven Java
+- SpringFramework + SpringBoot
+- Protocolos de Comunicação Web
 
 #Challenges
 
